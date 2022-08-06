@@ -1,4 +1,4 @@
-![alt text](https://github.com/Hanifanta/Hanifanta/blob/main/header_gh.jpg?raw=true)
+![Header](https://github.com/Hanifanta/Hanifanta/blob/main/header_gh.jpg?raw=true)
 
 ### Languages
 
