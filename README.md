@@ -1,4 +1,4 @@
-<a href="https://hanifanta.github.io/"><img src="header_gh.jpg"></a>
+![](https://github.com/Hanifanta/Hanifanta/blob/main/header_gh.gif)
 
 <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Hanifanta </h1>
 <h4 align="center">Enthusiastic and highly motivated Informatics student with leadership skills, initiative, and earning money to help the family economy. Experienced in the field of machine learning developer. Mastering Python programming language.</h3></br>
