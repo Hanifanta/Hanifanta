@@ -3,10 +3,10 @@
 <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Arsy </h1>
 <h4 align="center">Enthusiastic and highly motivated Informatics student with leadership skills, initiative, and earning money to help the family economy. Experienced in the field of machine learning developer. Mastering Python programming language.</h3></br>
 <p align="center">
-<a href="https://twitter.com/@hanifanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hanifanta" height="30" width="40" /></a>
+<a href="https://twitter.com/hanifanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hanifanta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hanifalirsyad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanifalirsyad/" height="30" width="40" /></a>
 <a href="https://kaggle.com/hanifalirsyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hanifalirsyad" height="30" width="40" /></a>
-<a href="https://instagram.com/@whoisarsy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@whoisarsy_" height="30" width="40" /></a>
+<a href="https://instagram.com/whoisarsy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@whoisarsy_" height="30" width="40" /></a>
 </p></br>
 
 ### 🛠 &nbsp;Tech Stack
