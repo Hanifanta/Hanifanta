@@ -26,8 +26,3 @@
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifanta&show_icons=true&&locale=en&layout=compact&theme=radical" alt="hanifanta">
 </p>
-  
-### Support me :
-<a href="https://www.buymeacoffee.com/hanifantaa"> 
-  <img align="left" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="hanifantaa" />
-</a>
