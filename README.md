@@ -4,7 +4,7 @@
 <h3 align="center">AI Enthusiast , I’m currently working on <a href="https://github.com/DietCare-Bangkit-Capstone/">DietCare Capstone Project</a></h3>
 <h3 align="center">Connect with me : </h3>
 <p align="center">
-  <a href="https://twitter.com/hanifanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hanifanta" height="30" width="40" /></a>
+  <a href="https://twitter.com/arsywho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hanifanta" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/hanifalirsyad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanifalirsyad/" height="30" width="40" /></a>
   <a href="https://kaggle.com/hanifalirsyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hanifalirsyad" height="30" width="40" /></a>
   <a href="https://instagram.com/whoisarsy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@whoisarsy_" height="30" width="40" /></a>
