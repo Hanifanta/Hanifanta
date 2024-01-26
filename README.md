@@ -23,5 +23,5 @@
 
 <h2 align="center">:sparkles: GitHub Stats</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifanta&show_icons=true&&locale=en&layout=compact&theme=gruvbox" alt="hanifanta">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hanifanta&theme=monokai&exclude=css,html,purebasic" alt="hanifanta">
 </p>
