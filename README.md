@@ -1,7 +1,12 @@
-![](https://github.com/Hanifanta/Hanifanta/blob/main/header_gh.gif)
-<h2 align="center">Hi there :scream: I'm Arsy </h2>
+<p align="center">
+  <img align="center" src="https://github.com/Hanifanta/Hanifanta/blob/main/header_gh.gif" alt="hanifanta">
+</p>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=hanifanta&label=Profile%20Views&color=yellow&style=flat" alt="hanifanta"/></p>
-<h3 align="center">AI Enthusiast, TensorFlow Developer Certificate Verified<a href="https://www.credential.net/40c51fe9-2731-4fa6-9532-2ea31b8dd7ab" target="_blank"><img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79905313" alt="TFDCBadges" height="50" width="50"/></a></h3>
+
+<h3 align="center">AI Enthusiast | Golang Backend Developer</h3>
+<h3 align="center">TensorFlow Developer Certificate Verified<a href="https://www.credential.net/40c51fe9-2731-4fa6-9532-2ea31b8dd7ab" target="_blank"><img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79905313" alt="TFDCBadges" height="50" width="50"/></a></h3>
+
 <h3 align="center">Connect with me : </h3>
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/hanifalirsyad/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanifalirsyad/" height="30" width="40" /></a>
